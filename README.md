@@ -16,16 +16,16 @@
      - Population health data science and decision intelligence
      - Data and information systems
 2. Investigation 
-  - Outbreaks
-  - Natural history
-  - Vaccine and treatment effectiveness
+   - Outbreaks
+   - Natural history
+   - Vaccine and treatment effectiveness
 3.	Response 
-1.	Vaccines, including registry
-2.	Case investigation and contact tracing
-3.	Isolation and quarantine
-4.	Treatment to reduce infectiousness
-5.	Masking
-6.	Shelter-in-place
+   - Vaccines, including registry
+   - Case investigation and contact tracing
+   - Isolation and quarantine
+   - Treatment to reduce infectiousness
+   - Masking
+   - Shelter-in-place
 3.	Health systems (clinics, EDs, hospitals, SNFs)
 4.	Testing
 5.	Treatment
