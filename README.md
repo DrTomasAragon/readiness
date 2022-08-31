@@ -24,7 +24,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdkCAmezoIpRA3fSMYc4y4v7Gk5lBIDop72Xw25
      - Wastewater surveillance
      - Genome sequencing
      - Immunization registry
-     - Population health data science and decision intelligence
+     - Data science and decision intelligence
      - Data and information systems
 2. Investigation 
    - Outbreaks
