@@ -1,6 +1,12 @@
-# Pandemic Readiness
+# Pandemic Readiness Rapid Survey
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdkCAmezoIpRA3fSMYc4y4v7Gk5lBIDop72Xw25sh-jYDqhvA/viewform?embedded=true" width="640" height="1077" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Instructions:
+- Review categories for reflection
+- Think of a specific *problem* for which your know the cause and solution (countermeasure).
+- Fill out this Google form: 
+
+
+## Readiness categories
 
 1. Communications, mobilization, and coordination
    - Local health jurisdictions 
