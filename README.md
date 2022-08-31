@@ -1,10 +1,13 @@
 # Pandemic Readiness Rapid Survey
 
-Instructions:
-- Review categories for reflection
-- Think of a specific *problem* for which your know the cause and solution (countermeasure).
-- Fill out this Google form: 
+How can we improve our pandemic preparedness and response for current and future pandemics or epidemics? 
 
+Instructions:
+- Review categories below for reflection
+- Think of a specific **problem** for which your know the **cause** and **solution** (countermeasure).
+- We will discuss your thoughts in a meeting
+- Fill out this Google form with your answer(s): 
+https://docs.google.com/forms/d/e/1FAIpQLSdkCAmezoIpRA3fSMYc4y4v7Gk5lBIDop72Xw25sh-jYDqhvA/viewform?usp=sf_link
 
 ## Readiness categories
 
