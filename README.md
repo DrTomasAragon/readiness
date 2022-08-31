@@ -1,7 +1,7 @@
 # Readiness
 
 1.	Communications, mobilization, and coordination
-    - Local health jurisdictions 
+  2. Local health jurisdictions 
     - Priority populations
     - Service providers (medical and behavioral health)
     - General public
