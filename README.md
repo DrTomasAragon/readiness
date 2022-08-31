@@ -4,11 +4,11 @@
     - Local health jurisdictions 
     - Priority populations
     - Service providers (medical and behavioral health)
-6.	General public
+    - General public
 2.	Surveillance, epidemiology, investigation, and response (SEIR) 
-1.	Surveillance and epidemiology 
-1.	Case registry,
-2.	Emergency department visits
+    - Surveillance and epidemiology 
+      - Case registry,
+      - Emergency department visits
 3.	Hospitalizations
 4.	Wastewater surveillance
 5.	Genome sequencing
@@ -35,8 +35,6 @@
 9.	Legal, political (local and state), and ethical challenges
 10.	Partnership opportunities or challenges (academic, CBOs, etc.)
 
-Here is [scenario analysis](https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-post-acute-phase-pandemic-scenarios-august-2022.pdf). 
+Here is [scenario analysis](https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-post-acute-phase-pandemic-scenarios-august-2022.pdf) from the  European Centre for Disease Prevention and Control.
 
-Here is CDC overhaul plan:
-https://www.cdc.gov/about/organization/cdc-moving-forward.html
-![image](https://user-images.githubusercontent.com/5156073/187587143-15241ad3-8fd0-497d-b890-2cfc61499486.png)
+Here is the recent [CDC overhaul plan](https://www.cdc.gov/about/organization/cdc-moving-forward.html).
