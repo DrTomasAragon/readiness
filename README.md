@@ -1,24 +1,24 @@
 # Readiness
 
-1.	Communications, mobilization, and coordination
-  2. Local health jurisdictions 
-    - Priority populations
-    - Service providers (medical and behavioral health)
-    - General public
-2.	Surveillance, epidemiology, investigation, and response (SEIR) 
-    - Surveillance and epidemiology 
-      - Case registry,
-      - Emergency department visits
-3.	Hospitalizations
-4.	Wastewater surveillance
-5.	Genome sequencing
-6.	Immunization registry
-7.	Population health data science and decision intelligence
-8.	Data and information systems
-2.	Investigation 
-1.	Outbreaks
-2.	Natural history
-3.	Vaccine and treatment effectiveness
+1. Communications, mobilization, and coordination
+   - Local health jurisdictions 
+   - Priority populations
+   - Service providers (medical and behavioral health)
+   - General public
+2. Surveillance, epidemiology, investigation, and response (SEIR) 
+   - Surveillance and epidemiology 
+     - Case registry,
+     - Emergency department visits
+     - Hospitalizations
+     - Wastewater surveillance
+     - Genome sequencing
+     - Immunization registry
+     - Population health data science and decision intelligence
+     - Data and information systems
+2. Investigation 
+  - Outbreaks
+  - Natural history
+  - Vaccine and treatment effectiveness
 3.	Response 
 1.	Vaccines, including registry
 2.	Case investigation and contact tracing
