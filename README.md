@@ -1,4 +1,4 @@
-# Readiness
+# Pandemic Readiness
 
 1. Communications, mobilization, and coordination
    - Local health jurisdictions 
