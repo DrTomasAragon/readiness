@@ -26,17 +26,17 @@ https://docs.google.com/forms/d/e/1FAIpQLSdkCAmezoIpRA3fSMYc4y4v7Gk5lBIDop72Xw25
      - Immunization registry
      - Decision intelligence and data science
      - Data and information systems
-2. Investigation 
-   - Outbreaks
-   - Natural history
-   - Vaccine and treatment effectiveness
-3. Response 
-   - Vaccines, including registry
-   - Case investigation and contact tracing
-   - Isolation and quarantine
-   - Treatment to reduce infectiousness
-   - Masking
-   - Shelter-in-place
+   - Investigation 
+     - Outbreaks
+     - Natural history
+     - Vaccine and treatment effectiveness
+   - Response 
+     - Vaccines, including registry
+     - Case investigation and contact tracing
+     - Isolation and quarantine
+     - Treatment to reduce infectiousness
+     - Masking
+     - Shelter-in-place
 4.	Health systems (clinics, EDs, hospitals, SNFs)
 5.	Testing
 6.	Treatment
